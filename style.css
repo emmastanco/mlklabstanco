@@ -1,0 +1,79 @@
+
+
+
+#mlkpic{
+  padding:1px;
+  border:1px solid #021a40;
+  width: 450px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#about{
+  font-weight: lighter
+}
+
+h1{
+  color:green;
+  text-align: center;
+}
+
+h2, h3{
+  color:#9fb3a4;
+  text-align: center;
+}
+
+
+
+body{
+  margin: 1.6em;
+}
+
+p{
+  text-align: center;
+}
+
+ul{
+  background-color: #d3e3d7;
+}
+
+li{
+  font-size: 15px;
+}
+
+table, th, td, thead {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th{
+  background-color: #d3e3d7;
+}
+
+td{
+  font-size: 15px;
+}
+
+b{
+  color:darkgreen
+}
+
+.question{
+border: double;
+color: darkgreen;
+}
+
+div{
+  border:double
+}
+
+#frame{
+  border: 3px dotted;
+        width: 300px;
+        height: 200px;
+  scroll-behavior: auto
+}
